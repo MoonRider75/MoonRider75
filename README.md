@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou @MoonRider75
+- 👀 Eu estou interessado em aprender.
+- 🌱 No momento estou estudando Ciência da Computação.
+- 💞️ Procuro conhecimento.
